@@ -2,6 +2,9 @@
 Changelog for package turtle_tf2_py
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.6.1 (2024-07-16)
+------------------
+
 0.6.0 (2024-07-10)
 ------------------
 * Used turtlesim_msgs (`#78 <https://github.com/ros/geometry_tutorials/issues/78>`_)
